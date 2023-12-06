@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+}
+
+#firstDiv{
+    background-image: url("image/3609083.jpg");
+    height: 550px;
+    background-size: cover;
+    /* filter: brightness(.10); */
+}
+
+h1{
+    text-decoration: underline;
+}
